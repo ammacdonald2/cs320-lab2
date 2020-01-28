@@ -1,1 +1,2 @@
-# cs320-lab2
+# Computer Inc
+We solve some computer problems
